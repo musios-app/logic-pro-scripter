@@ -2,7 +2,8 @@
 layout: default
 title: Logic Pro Scripter Guide
 description: This guide is intended for developers who want to use their dev knowledge to do good stuff with Scripter for MIDI in Logic Pro. It assumes some knowledge of both Logic Pro and JavaScript. I maintain it because I found Apple’s Scripter documentation both incomplete and somewhat difficult to use.
-image: images/icon.png
+icon: images/icon.png
+image: /projects/logic-pro-scripter/images/og-logic-pro-scripter.svg
 gitrepo: https://github.com/musios-app/logic-pro-scripter
 tags: logic-pro-x javascript scripting guide
 ---
