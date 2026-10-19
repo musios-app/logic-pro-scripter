@@ -1178,7 +1178,9 @@ This is a work-in-progress. In addition to TODO notes through this document...
 4. Does old EventTypes.js need a mention (it's not visible in Logic Pro X 10.6+)
 5. Write up `beatPos`
 
+## License
 
+[Apache License 2.0](./LICENSE)
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
