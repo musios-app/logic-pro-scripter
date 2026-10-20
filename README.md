@@ -10,7 +10,7 @@ tags: logic-pro-x javascript scripting guide
 
 ![Logic Pro Scripter Guide](images/icon.png)
 
-View the latest [Logic Pro Scripter Guide](https://andrewjhunt.github.io/logic-pro-scripter/)
+View the latest [Logic Pro Scripter Guide](https://musios.app/projects/logic-pro-scripter/README.html)
 
 This guide is intended for developers who want to use their dev knowledge to do good stuff with Scripter for MIDI in Logic Pro. It assumes some knowledge of both Logic Pro and JavaScript. I maintain it because I found [Apple's Scripter documentation](https://support.apple.com/en-au/guide/logicpro/lgce728c68f6/mac) both incomplete and somewhat difficult to use.
 
@@ -61,7 +61,7 @@ Can you start with Apple's doc for the [Logic Pro Scripter MIDI plug-in](https:/
 
 ### Other Guides and Resources
 
-[An Introduction to Scripting in Logic X by Will Walker](https://music.tutsplus.com/tutorials/an-introduction-to-scripting-in-logic-x--cms-23920)
+[An Introduction to Scripting in Logic X by Will Walker](https://web.archive.org/web/20220916094659/https://music.tutsplus.com/tutorials/an-introduction-to-scripting-in-logic-x--cms-23920) (archived copy; the original page has been removed)
 
 [Collection of LogicScripts by JBramauer](https://github.com/JBramauer/LogicScripts)
 
