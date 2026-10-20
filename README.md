@@ -470,7 +470,7 @@ NoteOn
 ...console bandwidth exceeded, thinning some traces...
 ```
 
-`Dewdman42` posted a [handy work-around](https://www.logicprohelp.com/forum/viewtopic.php?t=144010) that defers the console work to the [`Idle()`](#idle) function.  Conveniently, it's named `console.log` so that you can feel at home.
+`Dewdman42` posted a [handy work-around](https://www.logicprohelp.com/forums/topic/126397-tip-buffered-tracing-lpsconsolelog/) that defers the console work to the [`Idle()`](#idle) function.  Conveniently, it's named `console.log` so that you can feel at home.
 
 See [`scripter/console.log.js`](scripter/console.log.js)
 
