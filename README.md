@@ -368,7 +368,7 @@ Caution: if you print much information on each call to `ProcessMIDI()` it can ca
 
 #### Find your block duration
 
-This example allows you to determine the interval between calls to `ProcessMIDI()`. See [`scripts/processmidi-timing.js`](scripts/processmidi-timing.js)
+This example allows you to determine the interval between calls to `ProcessMIDI()`. See [`scripter/processmidi-timing.js`](scripter/processmidi-timing.js)
 
 ```
 /*
@@ -418,7 +418,7 @@ Sometimes it appears that to much `Trace()` can cause Logic Pro to crash.
 
 #### `Trace()` for Javascript types
 
-All the standard JS types can be passed to `Trace()`. See [`scripts/trace.js`](scripts/trace.js)
+All the standard JS types can be passed to `Trace()`. See [`scripter/trace.js`](scripter/trace.js)
 
 ```
 /* Trace() examples */
@@ -472,7 +472,7 @@ NoteOn
 
 `Dewdman42` posted a [handy work-around](https://www.logicprohelp.com/forum/viewtopic.php?t=144010) that defers the console work to the [`Idle()`](#idle) function.  Conveniently, it's named `console.log` so that you can feel at home.
 
-See [`scripts/console.log.js`](scripts/console.log.js)
+See [`scripter/console.log.js`](scripter/console.log.js)
 
 TODO: it would be good to allow printing of multiple arguments as in console.log.
 
