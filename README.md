@@ -6,6 +6,10 @@ icon: images/icon.png
 image: /projects/logic-pro-scripter/images/og-logic-pro-scripter.svg
 gitrepo: https://github.com/musios-app/logic-pro-scripter
 tags: logic-pro-x javascript scripting guide
+date: 2021-05-14
+seo:
+  type: TechArticle
+  date_modified: 2026-10-20
 ---
 
 ![Logic Pro Scripter Guide](images/icon.png)
